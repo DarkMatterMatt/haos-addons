@@ -1,0 +1,7 @@
+---
+channel: stable
+addons:
+  spotify:
+    repository: hassio-addons/addon-spotify-connect
+    target: spotify
+    image: ghcr.io/darkmattermatt/spotify/{arch}
