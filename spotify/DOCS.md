@@ -40,7 +40,7 @@ password: MySpotifyPassword
 autoplay: true
 initial_volume: 90
 enable_volume_normalisation: false
-librespot_options: --volume-ctrl 'fixed' --normalisation-pregain -9
+librespot_options: --volume-ctrl fixed --normalisation-pregain -9
 ```
 
 **Note**: _This is just an example, don't copy and paste it! Create your own!_
