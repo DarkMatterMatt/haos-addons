@@ -33,6 +33,6 @@ you'll have to do is hook up your sound system to the Pi!
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-v1.13.6-blue.svg
-[release]: https://github.com/DarkMatterMatt/addon-spotify-connect/tree/v1.13.6
+[release-shield]: https://img.shields.io/badge/version-v1.13.7-blue.svg
+[release]: https://github.com/DarkMatterMatt/addon-spotify-connect/tree/v1.13.7
 [screenshot]: https://github.com/hassio-addons/addon-spotify-connect/raw/main/images/screenshot.png
